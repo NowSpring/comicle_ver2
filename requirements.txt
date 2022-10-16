@@ -1,4 +1,3 @@
 pickle
-PIL
 pandas
 streamlit
